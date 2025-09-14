@@ -1,8 +1,15 @@
 a {
-  color: red;
-  border: solid 2px;
+  color: blak;
+  border: solid 2px red;
 }
+
 img {
+  text-align: center;
   border-radius: 10px 10px 10px 10px;
-  border: solid 2px;
+  border: solid 5px;
+  pading: 10px;
+}
+
+button {
+  text-align: center;
 }
